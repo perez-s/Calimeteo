@@ -1,8 +1,5 @@
 import pandas as pd
 import streamlit as st
-import csv
-import plotly.figure_factory as ff
-import datetime
 
 st.set_page_config(
     page_title="Estación meteorologica - Univalle",
