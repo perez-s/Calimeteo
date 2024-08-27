@@ -1,5 +1,4 @@
 import pandas as pd
-from retry_requests import retry
 import streamlit as st
 import csv
 import plotly.figure_factory as ff
